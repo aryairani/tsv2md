@@ -27,7 +27,7 @@ Sample output:
 - ~~never~~
 - there's not enough information
 
-**TF** Blah blah blah
+**TF** This is a ridiculous question.
 - false
 
 **ORD** List the following in the following order:

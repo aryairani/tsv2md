@@ -1,5 +1,5 @@
 MC	1 < 3	always	correct	sometimes	incorrect	never	incorrect
 MA	n < m	always	incorrect	sometimes	correct	never	incorrect	there's not enough information	correct
-TF	Blah blah blah	false
+TF	This is a ridiculous question.	false
 ORD	List the following in the following order:	a	b	c
 SR	So how's it going?
