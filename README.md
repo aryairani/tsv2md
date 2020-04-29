@@ -4,10 +4,10 @@ for sad Blackboard users
 ## Export to markdown:
 
 `tsv2md.pl` tries to understand these question types:
-* `MC` / `MA` multiple choice: incorrect answers are ~~stricken~~
-* `TF` (true/false): give the correct answer with a bullet
-* `ORD` (ordering): list answers in the correct order
-* `SR` short response
+* MC / MA (multiple choice): incorrect answers are ~~stricken~~
+* TF (true/false): give the correct answer with a bullet
+* ORD (ordering): list answers in the correct order
+* SR short response
 
 Sample usage:
 ```
